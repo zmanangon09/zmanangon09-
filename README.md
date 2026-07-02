@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Zaith! 👋</h1>
+<h1 align="center">Zaith M</h1>
 <h3 align="center">Estudiante de Ingeniería de Software · Desarrollador Full-Stack</h3>
 
 <p align="center">
