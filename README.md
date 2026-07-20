@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/profile.jpg" alt="Zaith Manangón" width="180" style="border-radius:50%;" />
+
 # Zaith Alejandro Manangón Vinueza
 
 ### Estudiante de Ingeniería de Software · Desarrollador Full-Stack · Entusiasta de la Investigación
@@ -58,6 +60,35 @@ Organizado por:
 * Ciencia de Datos
 * Arquitectura de Software
 * Cloud Computing
+* Informática en Salud
+
+---
+
+# 🚀 Áreas de Especialización
+
+### Desarrollo Full-Stack
+* Arquitecturas frontend
+* APIs backend
+* Sistemas de autenticación
+* Diseño de bases de datos
+* Despliegue en la nube
+* Automatización CI/CD
+
+### Machine Learning
+* Preprocesamiento de datos
+* Modelado predictivo
+* XGBoost
+* Redes neuronales
+* Evaluación de modelos
+* Análisis aplicado a salud
+
+### DevOps e Infraestructura
+* Docker
+* GitHub Actions
+* Administración de Linux
+* AWS
+* Vercel
+* Render
 
 ---
 
@@ -135,6 +166,36 @@ Organizado por:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+---
+
+# 📌 Proyectos Destacados
+
+## 🫀 Predicción de Enfermedades Cardíacas
+
+Sistema de Machine Learning para la predicción de enfermedades cardiovasculares usando la metodología CRISP-DM.
+
+### Aspectos destacados
+* Comparación entre XGBoost y MLP
+* Dataset con 918 registros clínicos
+* ROC-AUC > 0.90
+* Interfaz de diagnóstico basada en web
+* Análisis predictivo explicable
+
+### Tecnologías
+Python · XGBoost · Scikit-Learn · Flask · React
+
+🔗 Repositorio: https://github.com/zmanangon09/heart-disease
+
+---
+
+## 🌊 PageWave
+
+Landing page corporativa construida con tecnologías web modernas y diseño mobile-first.
+
+### Tecnologías
+Next.js 15 · React 19 · TypeScript · Tailwind CSS
+
+🔗 Repositorio: https://github.com/wavedev1796/PageWave
 
 ---
 
@@ -154,5 +215,28 @@ Organizado por:
 </div>
 
 ---
+
+# 📊 Datos Rápidos
+
+* 🎓 Estudiante de Ingeniería de Software (séptimo semestre)
+* 🌎 Participación académica internacional
+* 🚀 Desarrollador Full-Stack
+* 🤖 Entusiasta del Machine Learning
+* 🐳 Usuario de Docker
+* ☁️ Experiencia en despliegue en la nube
+* 🔄 CI/CD con GitHub Actions
+* 🐧 Usuario avanzado de Linux
+
+---
+
+# 📫 Conectemos
+
+<div align="center">
+
+### Abierto a colaboraciones académicas, oportunidades de investigación y proyectos de software innovadores.
+
+📧 **[a.manangon09@gmail.com](mailto:a.manangon09@gmail.com)**
+
+[LinkedIn](https://www.linkedin.com/in/zaith-manangón/) • [ORCID](https://orcid.org/0009-0000-5625-4980)
 
 </div>
