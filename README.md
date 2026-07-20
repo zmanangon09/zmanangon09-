@@ -1,8 +1,9 @@
 <div align="center">
 
+# Zaith Alejandro Manangón Vinueza
+
 <img src="assets/profile.jpg" alt="Zaith Manangón" width="180" style="border-radius:50%;" />
 
-# Zaith Alejandro Manangón Vinueza
 
 ### Estudiante de Ingeniería de Software · Desarrollador Full-Stack · Entusiasta de la Investigación
 
