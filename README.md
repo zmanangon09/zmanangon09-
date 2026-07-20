@@ -4,8 +4,8 @@
 
 ### Estudiante de Ingeniería de Software · Desarrollador Full-Stack
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaith-manangón/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alejandro.z_9/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5625-4980)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a.manangon09@gmail.com)
 
@@ -13,12 +13,13 @@
 
 ---
 
-## 🚀 Sobre mí
+## 💫 Sobre mí
 
-Estudiante de **Ingeniería de Software** en la Universidad de las Fuerzas Armadas (**ESPE**), enfocado en construir productos full-stack con **Next.js** y **NestJS**. Me interesa aplicar **Machine Learning al ámbito de la salud**, y actualmente combino desarrollo web con análisis de datos y modelos predictivos.
+Estudiante de **Ingeniería de Software** en la Universidad de las Fuerzas Armadas (**ESPE**). No me caso con un stack fijo: elijo la herramienta que mejor resuelve el problema, ya sea Next.js, NestJS, Django, Spring Boot o lo que la arquitectura pida. Tengo un desarrollo equilibrado entre lo técnico y lo creativo — el "cerebro central" bien conectado — y una vez que me propongo resolver algo, no paro hasta verlo terminado.
 
 - 🎓 Ingeniería de Software — Universidad de las Fuerzas Armadas ESPE
-- 💻 Desarrollo full-stack con **Next.js**, **NestJS** y **TypeScript**
+- 🧠 Desarrollo adaptable: elijo el stack según el problema, no al revés
+- 🎯 Perfeccionista por naturaleza: no me detengo hasta ver el resultado resuelto
 - 🤖 Machine Learning aplicado a salud y análisis de datos
 - 🐧 Administración de sistemas Linux, particionado y virtualización
 - 📫 Contacto: **a.manangon09@gmail.com** · [ORCID](https://orcid.org/0009-0000-5625-4980)
@@ -35,14 +36,23 @@ Estudiante de **Ingeniería de Software** en la Universidad de las Fuerzas Armad
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Frontend & Backend**
+**Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Datos, ML & Bases de datos**
 
@@ -50,9 +60,11 @@ Estudiante de **Ingeniería de Software** en la Universidad de las Fuerzas Armad
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F79E1E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Herramientas**
 
