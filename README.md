@@ -58,7 +58,6 @@ Organizado por:
 * Ciencia de Datos
 * Arquitectura de Software
 * Cloud Computing
-* Informática en Salud
 
 ---
 
