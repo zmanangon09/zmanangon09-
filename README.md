@@ -212,28 +212,3 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS
 </div>
 
 ---
-
-# 📊 Datos Rápidos
-
-* 🎓 Estudiante de Ingeniería de Software (séptimo semestre)
-* 🌎 Participación académica internacional
-* 🚀 Desarrollador Full-Stack
-* 🤖 Entusiasta del Machine Learning
-* 🐳 Usuario de Docker
-* ☁️ Experiencia en despliegue en la nube
-* 🔄 CI/CD con GitHub Actions
-* 🐧 Usuario avanzado de Linux
-
----
-
-# 📫 Conectemos
-
-<div align="center">
-
-### Abierto a colaboraciones académicas, oportunidades de investigación y proyectos de software innovadores.
-
-📧 **[a.manangon09@gmail.com](mailto:a.manangon09@gmail.com)**
-
-[LinkedIn](https://www.linkedin.com/in/zaith-manangón/) • [ORCID](https://orcid.org/0009-0000-5625-4980)
-
-</div>
